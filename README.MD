@@ -15,5 +15,5 @@ Hello! I am a graduate student researcher in the [Psychology Department](https:/
 
     > Abstract Pretesting prior to a study session has been shown to benefit memory for pretested information compared to traditional study. While previous research has not found a detriment to non-pretested but related material, it is possible that taxing attention by increasing the playback speed of presented material could reveal such impairments. The current study (N = 239) compared multiple-choice learning from educational videos at 1x, 1.5x, and 2x speeds. Three videos (one at each speed) were presented after a pretest, for which half of the tested material was pretested, and half was not (non-pretested related). Another three videos were presented without a pretest(non-pretested). Benefits from pretesting and impairments associated with increased playback speed were observed, but no evidence of impairments to non-pretested related information were observed even at an increased playback speed. These results are inconsistent with an attentional account of the pretesting effect.
 
-
 ## Curriculum Vitae
+
