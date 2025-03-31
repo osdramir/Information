@@ -17,3 +17,4 @@ Hello! I am a graduate student researcher in the [Psychology Department](https:/
 
 ## Curriculum Vitae
 
+* [My CV](https://github.com/osdramir/Information/blob/main/CV.03.31.2025.pdf)
