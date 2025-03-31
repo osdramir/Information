@@ -5,7 +5,7 @@ Hello! I am a graduate student researcher in the [Psychology Department](https:/
 
 ## Peer-Reviewed Research
 
-* **Turn Off, Tune Out? Testing the Effects of Webcam Use on Learning in Synchronous Online Classrooms**
+* [**Turn Off, Tune Out? Testing the Effects of Webcam Use on Learning in Synchronous Online Classrooms**](https://static1.squarespace.com/static/504170d6e4b0b97fe5a59760/t/67090bdc7968744e4dcd99fd/1728646109090/Perez+-+2024+-+Turn+Off%2C+Tune+Out+Testing+the+Effects+of+Webcam+Use.pdf)
 
     > Synchronous online classes have grown in popularity, sparking debate on student webcam use. In Experiment 1, participants were assigned to attend a lecture with half instructed to turn their webcam on and half instructed to turn their webcam off (interpolated testing was also examined as a buffer against webcam effects). A webcam effect was observed: webcam-on participants outperformed webcam-off participants. Experiment 2 manipulated class-wide webcam use by creating uniform groups in which participants all had webcams on or off at the same time and mixed groups in which webcam use was evenly split. The webcam effect replicated in the mixed condition, but the effect was attenuated in the uniform condition, suggesting that the webcam effect is larger in mixed webcam classes. Additional findings suggest that feelings of accountability and reduced media multitasking for webcam-on participants could contribute to the webcam effect more than social presence.
 
